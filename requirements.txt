@@ -1,3 +1,12 @@
 voila
 voila-material
 bqplot
+matplotlib
+pandas
+ipywidgets>=7.5,<8
+pyensae
+folium
+plotly
+pandas
+numpy
+tabulate
