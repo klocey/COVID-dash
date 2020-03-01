@@ -3,10 +3,7 @@ matplotlib
 pandas
 ipywidgets>=7.5,<8
 
-random
 itertools
-re
-warnings
 pyensae
 pyensae.notebookhelper
 folium
@@ -14,13 +11,9 @@ folium
 IPython.display
 plotly
 
-os
 pandas
 numpy
 tabulate
-sys
 
 csv
-math
 datetime
-itertools
