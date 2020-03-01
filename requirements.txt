@@ -6,7 +6,6 @@ ipywidgets>=7.5,<8
 pyensae
 folium
 
-IPython.display
 plotly
 
 pandas
