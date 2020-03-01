@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser notebooks/Dashboard.ipynb
+web: voila —-no-browser notebooks/Dashboard.ipynb
