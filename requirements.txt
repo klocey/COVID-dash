@@ -3,7 +3,6 @@ matplotlib
 pandas
 ipywidgets>=7.5,<8
 
-itertools
 pyensae
 pyensae.notebookhelper
 folium
