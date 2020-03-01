@@ -6,7 +6,6 @@ ipywidgets
 pyensae
 folium
 plotly
-pandas
 numpy
 tabulate
 IPython
