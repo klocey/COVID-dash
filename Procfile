@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/dashboard.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True --theme=dark notebooks/dashboard.ipynb
